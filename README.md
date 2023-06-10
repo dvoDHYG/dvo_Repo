@@ -11,3 +11,4 @@ Inportant steps for git workflow:
 5. Commit changes ot version history
 6. Review Previous changes with git log
 7. Making changes to the remote, let's bring them down to the local.
+8. One more change for luck.
